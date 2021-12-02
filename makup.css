@@ -1,0 +1,199 @@
+#cox{
+    border: 10px solid blue;
+    margin-left : 8px;
+    padding: 12px;
+    margin-top: 25px;
+    border-radius: 18px;
+
+}
+
+h1{
+    color: coral;
+    border: 5px solid blue;
+    padding: 10px;
+    text-align: center;
+    text-shadow: chartreuse;
+    border-radius: 15px; 
+    height: 6%;
+    width: 50%;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 170%;
+    margin-top: 10px 85px;
+}
+.color{
+    color: brown;
+}
+p{
+    text-align: left;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: hotpink;
+    border: 5px solid blue;
+    padding: 10px;
+    text-align: left;
+    text-shadow: chartreuse;
+    border-radius: 15px; 
+    height: 6%;
+    width: 95%;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin-left: 5px;
+}
+
+#shakil{
+    font-size: x-large;
+    border:5px solid red;
+    padding: 40px;
+    border-radius: 15px;
+    width: 90%;
+    margin-top : 9px;
+    margin-left: 5px;
+}
+
+#joy{
+    font-size: x-large;
+    border:5px solid peru;
+    padding: 40px;
+    border-radius: 15px;
+    height: 18px;
+    width: 90%;
+    margin-top : 0.000001px;
+    margin-left: 5px;
+}
+
+span{
+    color: red;
+}
+
+#LOL{
+    color: blue;
+}
+
+.picture{
+    border: 5px solid brown;
+    margin: 15px;
+    padding: 5px;
+    height: 345px;
+    width: 400px;
+}
+
+#one{
+    font-size: x-large;
+    border:5px solid peru;
+    padding: 40px;
+    border-radius: 15px;
+    height: 18px;
+    width: 90%;
+    margin-top : 16px;
+    margin-left: 5px;
+}
+
+#two{
+    font-size: x-large;
+    border:5px solid red;
+    padding: 40px;
+    border-radius: 15px;
+    width: 90%;
+    margin-top : 16px;
+    margin-left: 5px;
+}
+
+#first{
+    border: 5px solid firebrick; 
+    height: 400px; 
+    width: 450px;
+    padding: 4px;
+}
+
+#second{
+    border: 5px solid firebrick; 
+    align-content: right;
+    height: 400px; 
+    width: 450px;
+    padding: 4px;
+}
+
+.next{
+    color:red; 
+    font-family: cursive;
+}
+
+
+
+
+
+
+.saint{
+    color: coral;
+    border: 5px solid blue;
+    padding: 10px;
+    text-align: center;
+    text-shadow: chartreuse;
+    border-radius: 15px; 
+    height: 2%;
+    width: 99%;
+    float:left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 170%;
+    margin-top: 10px 85px;
+}
+
+#Saint{
+    border: 10px solid blue;
+    margin-left : 8px;
+    padding: 12px;
+    margin-top: 29px;
+    margin-right: 30px;
+    border-radius: 18px;
+    
+    height: 9000px;
+}
+
+#imagee{
+    height: 300px;
+    width: 350px;
+    border: 5px solid green;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 7px
+}
+
+h3{
+    border: 5px solid grey;
+    margin: 8px 8px  8px 8px;
+    padding: 10px; 
+    height: 0.5%;
+    width: 39%;
+    border-radius: 15px;
+
+
+
+}
+
+#videoo{
+    height: 355px;
+    width: 460px;
+    border: 5px solid green;
+    padding: 6px;
+    margin: 5px 5px 5px 5px;
+    float: left;
+    border-radius: 13px;
+
+}
+
+
+
+#h1{
+
+    border: 5px solid grey;
+    margin: 8px 8px  8px 8px;
+    padding: 10px; 
+    height: 0.5%;
+    width: 39%;
+    
+}
